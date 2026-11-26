@@ -1,1 +1,2 @@
-# AI_Staff_Homingo
+# MyChief-AI
+Homingo Hackathon 
